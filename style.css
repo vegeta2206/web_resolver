@@ -95,7 +95,7 @@ form {
 input[type="text"] {
     width: 70%;
     padding: 8px;
-    border-radius: 5px;
+    border-radius: 2px;
     border: 1px solid #ccc;
 }
 
@@ -105,7 +105,7 @@ button {
     border: none;
     background: linear-gradient(135deg, #FF7900 0%, #FF9800 100%);
     color: white;
-    border-radius: 6px;
+    border-radius: 2px;
     cursor: pointer;
     font-weight: 600;
     transition: all 0.3s ease;
@@ -123,7 +123,7 @@ button:hover {
     margin-top: 25px;
     padding: 20px;
     background: #fff9f0;
-    border-radius: 8px;
+    border-radius: 2px;
     border: 1px solid #ffeaa7;
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
@@ -136,7 +136,7 @@ button:hover {
 .result {
     margin-bottom: 15px;
     border: 1px solid #ffcc80;
-    border-radius: 6px;
+    border-radius: 2px;
     padding: 15px;
     background: #fff;
     box-shadow: 0 2px 4px rgba(255, 121, 0, 0.1);
@@ -145,7 +145,7 @@ button:hover {
 pre {
     background: #fff3e0;
     padding: 12px;
-    border-radius: 6px;
+    border-radius: 2px;
     overflow-x: auto;
     border: 1px solid #ffcc80;
 }
@@ -167,7 +167,7 @@ a:hover {
 
 .alert {
     padding: 15px;
-    border-radius: 8px;
+    border-radius: 2px;
     margin-bottom: 20px;
     text-align: center;
     background-color: #fff3cd;
@@ -192,7 +192,7 @@ a:hover {
     color: #155724;
     background: #d4edda;
     padding: 8px;
-    border-radius: 4px;
+    border-radius: 2px;
     margin-top: 5px;
     font-family: 'Courier New', monospace;
 }
@@ -201,7 +201,7 @@ a:hover {
     color: #721c24;
     background: #f8d7da;
     padding: 8px;
-    border-radius: 4px;
+    border-radius: 2px;
     margin-top: 5px;
     font-weight: bold;
 }
@@ -211,7 +211,7 @@ a:hover {
     width: 100%;
     background: linear-gradient(135deg, #fff8f0 0%, #fff0e6 100%);
     border: 2px solid #ffcc80;
-    border-radius: 12px;
+    border-radius: 2px;
     padding: 25px;
     margin-top: 30px;
     box-shadow: 0 4px 16px rgba(255, 121, 0, 0.1);
@@ -228,7 +228,7 @@ a:hover {
 .report-item {
     background: #fff;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 2px;
     border: 1px solid #ffeaa7;
     box-shadow: 0 2px 8px rgba(255, 121, 0, 0.1);
     transition: transform 0.3s ease;
